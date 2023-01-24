@@ -3,9 +3,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Isaiah's Website</title>
   </head>
   <body bgcolor="#DAF7A6">
+    <p style="color:blue;">I go to school at RBHS.</p>
     <a href="index.html">Home</a>
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
