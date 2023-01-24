@@ -10,6 +10,7 @@
     <a href="portfolio.html">Portfolio</a>
     <a href="aboutme.html">About Me</a>
     <h1>This is Isaiah's Home Page!</h1>
+    <h1>I am a student at RBHS.</h1>
     <img src="images/BunleaHome.JPG" height="500">
   </body>
 </html>
